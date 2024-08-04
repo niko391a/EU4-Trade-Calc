@@ -1,0 +1,14 @@
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\bin\Release\EU4-Trade-Calc.exe.config
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\bin\Release\EU4-Trade-Calc.exe
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\bin\Release\EU4-Trade-Calc.pdb
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\obj\Release\EU4-Trade-Calc.csproj.AssemblyReference.cache
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\obj\Release\EU4_Trade_Calc.form1.resources
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\obj\Release\EU4_Trade_Calc.Properties.Resources.resources
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\obj\Release\EU4-Trade-Calc.csproj.GenerateResource.cache
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\obj\Release\EU4-Trade-Calc.csproj.CoreCompileInputs.cache
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\obj\Release\EU4-Trade-Calc.exe
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\obj\Release\EU4-Trade-Calc.pdb
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\bin\Release\EU4-Trade-Calc.exe.manifest
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\bin\Release\EU4-Trade-Calc.application
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\obj\Release\EU4-Trade-Calc.exe.manifest
+C:\Users\Nikol\source\repos\EU4-Trade-Calc\EU4-Trade-Calc\obj\Release\EU4-Trade-Calc.application
